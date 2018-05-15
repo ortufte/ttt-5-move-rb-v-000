@@ -12,6 +12,8 @@ input = gets.strip
 
 index = input.to_i
 
+input_to_index
+
 move(board, index, value = "x")
 
 display_board(board)
