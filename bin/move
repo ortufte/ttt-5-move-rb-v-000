@@ -10,8 +10,6 @@ puts "Where would you like to go?"
 
 input = gets.strip
 
-input_to_index
-
 index = input.to_i
 
 move(board, index, value = "x")
