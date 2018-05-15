@@ -6,7 +6,7 @@ puts "Welcome to Tic Tac Toe!"
 
 display_board(board)
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ([" ", " ", " ", " ", " ", " ", " ", " ", " "])
 
 puts "Where would you like to go?"
 
